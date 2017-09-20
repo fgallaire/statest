@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments for Jussieu en lutte !</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/statest/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/statest/</link>
 	<description>La mobilisation à Jussieu</description>
 	<lastBuildDate>Wed, 04 Mar 2009 08:39:25 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -16,10 +16,10 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>Comment on [05/03/2009] Assemblée générale mixte by sophie</title>
-		<link>/05032009-assemblee-generale-mixte/comment-page-1/#comment-5</link>
+		<link>/statest/05032009-assemblee-generale-mixte/comment-page-1/#comment-5</link>
 		<dc:creator><![CDATA[sophie]]></dc:creator>
 		<pubDate>Wed, 04 Mar 2009 08:39:25 +0000</pubDate>
-		<guid isPermaLink="false">/?p=118#comment-5</guid>
+		<guid isPermaLink="false">/statest/?p=118#comment-5</guid>
 		<description><![CDATA[a quelle heure?]]></description>
 		<content:encoded><![CDATA[<p>a quelle heure?</p>
 ]]></content:encoded>

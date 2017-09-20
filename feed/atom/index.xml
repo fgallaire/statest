@@ -2,16 +2,16 @@
   xmlns="http://www.w3.org/2005/Atom"
   xmlns:thr="http://purl.org/syndication/thread/1.0"
   xml:lang="en-US"
-  xml:base="/wp-atom.php"
+  xml:base="/statest/wp-atom.php"
    >
 	<title type="text">Jussieu en lutte !</title>
 	<subtitle type="text">La mobilisation à Jussieu</subtitle>
 
 	<updated>2009-03-11T00:48:06Z</updated>
 
-	<link rel="alternate" type="text/html" href="/" />
-	<id>/feed/atom/</id>
-	<link rel="self" type="application/atom+xml" href="/feed/atom/" />
+	<link rel="alternate" type="text/html" href="/statest/" />
+	<id>/statest/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="/statest/feed/atom/" />
 
 	<generator uri="https://wordpress.org/" version="4.8.2">WordPress</generator>
 	<entry>
@@ -20,15 +20,15 @@
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[11/03/2009] Assemblée générale, amphithéâtre 34A]]></title>
-		<link rel="alternate" type="text/html" href="/11032009-assemblee-generale-amphitheatre-34a/" />
-		<id>/?p=165</id>
+		<link rel="alternate" type="text/html" href="/statest/11032009-assemblee-generale-amphitheatre-34a/" />
+		<id>/statest/?p=165</id>
 		<updated>2009-03-11T00:44:00Z</updated>
 		<published>2009-03-11T00:44:00Z</published>
-		<category scheme="/" term="AG" />		<summary type="html"><![CDATA[Demain, mercredi 11 mars aura lieu, en amphithéâtre 34A, une assemblée générale de l&#8217;ensemble de la communauté universitaire. Le blocage de l&#8217;université sera mis à l&#8217;ordre du jour. Départ pour la manifestation prévu à la fin de l&#8217;assemblée, rendez-vous place Jussieu. Venez nombreux.]]></summary>
-		<content type="html" xml:base="/11032009-assemblee-generale-amphitheatre-34a/"><![CDATA[<p>Demain, mercredi 11 mars aura lieu, en amphithéâtre 34A, une assemblée générale de l&#8217;ensemble de la communauté universitaire. Le blocage de l&#8217;université sera mis à l&#8217;ordre du jour. Départ pour la manifestation prévu à la fin de l&#8217;assemblée, rendez-vous place Jussieu. Venez nombreux.</p>
+		<category scheme="/statest/" term="AG" />		<summary type="html"><![CDATA[Demain, mercredi 11 mars aura lieu, en amphithéâtre 34A, une assemblée générale de l&#8217;ensemble de la communauté universitaire. Le blocage de l&#8217;université sera mis à l&#8217;ordre du jour. Départ pour la manifestation prévu à la fin de l&#8217;assemblée, rendez-vous place Jussieu. Venez nombreux.]]></summary>
+		<content type="html" xml:base="/statest/11032009-assemblee-generale-amphitheatre-34a/"><![CDATA[<p>Demain, mercredi 11 mars aura lieu, en amphithéâtre 34A, une assemblée générale de l&#8217;ensemble de la communauté universitaire. Le blocage de l&#8217;université sera mis à l&#8217;ordre du jour. Départ pour la manifestation prévu à la fin de l&#8217;assemblée, rendez-vous place Jussieu. Venez nombreux.</p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/11032009-assemblee-generale-amphitheatre-34a/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/11032009-assemblee-generale-amphitheatre-34a/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/11032009-assemblee-generale-amphitheatre-34a/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/11032009-assemblee-generale-amphitheatre-34a/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 		<entry>
@@ -37,15 +37,15 @@
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[10/03/2009] Action gare de Lyon]]></title>
-		<link rel="alternate" type="text/html" href="/10032009-action-gare-de-lyon/" />
-		<id>/?p=170</id>
+		<link rel="alternate" type="text/html" href="/statest/10032009-action-gare-de-lyon/" />
+		<id>/statest/?p=170</id>
 		<updated>2009-03-11T00:48:06Z</updated>
 		<published>2009-03-10T00:46:32Z</published>
-		<category scheme="/" term="Actions" />		<summary type="html"><![CDATA[Cours hors les murs et tractage organisés par les enseignants et les étudiants de Jussieu et de PRG, demain à partir de 16h, gare de Lyon !]]></summary>
-		<content type="html" xml:base="/10032009-action-gare-de-lyon/"><![CDATA[<p>Cours hors les murs et tractage organisés par les enseignants et les étudiants de Jussieu et de PRG, demain à partir de 16h, gare de Lyon !</p>
+		<category scheme="/statest/" term="Actions" />		<summary type="html"><![CDATA[Cours hors les murs et tractage organisés par les enseignants et les étudiants de Jussieu et de PRG, demain à partir de 16h, gare de Lyon !]]></summary>
+		<content type="html" xml:base="/statest/10032009-action-gare-de-lyon/"><![CDATA[<p>Cours hors les murs et tractage organisés par les enseignants et les étudiants de Jussieu et de PRG, demain à partir de 16h, gare de Lyon !</p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/10032009-action-gare-de-lyon/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/10032009-action-gare-de-lyon/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/10032009-action-gare-de-lyon/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/10032009-action-gare-de-lyon/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 		<entry>
@@ -54,15 +54,15 @@
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[09/03/2009] Comité de mobilisation]]></title>
-		<link rel="alternate" type="text/html" href="/09032009-comite-de-mobilisation/" />
-		<id>/?p=167</id>
+		<link rel="alternate" type="text/html" href="/statest/09032009-comite-de-mobilisation/" />
+		<id>/statest/?p=167</id>
 		<updated>2009-03-11T00:46:04Z</updated>
 		<published>2009-03-10T00:44:23Z</published>
-		<category scheme="/" term="AG" />		<summary type="html"><![CDATA[Comité de mobilisation, aujourd&#8217;hui à 12H30.]]></summary>
-		<content type="html" xml:base="/09032009-comite-de-mobilisation/"><![CDATA[<p>Comité de mobilisation, aujourd&#8217;hui à 12H30.</p>
+		<category scheme="/statest/" term="AG" />		<summary type="html"><![CDATA[Comité de mobilisation, aujourd&#8217;hui à 12H30.]]></summary>
+		<content type="html" xml:base="/statest/09032009-comite-de-mobilisation/"><![CDATA[<p>Comité de mobilisation, aujourd&#8217;hui à 12H30.</p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/09032009-comite-de-mobilisation/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/09032009-comite-de-mobilisation/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/09032009-comite-de-mobilisation/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/09032009-comite-de-mobilisation/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 		<entry>
@@ -71,12 +71,12 @@
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[06/03/2009] Compte-rendu de la CNU]]></title>
-		<link rel="alternate" type="text/html" href="/06032009-compte-rendu-de-la-cnu/" />
-		<id>/?p=158</id>
+		<link rel="alternate" type="text/html" href="/statest/06032009-compte-rendu-de-la-cnu/" />
+		<id>/statest/?p=158</id>
 		<updated>2009-03-08T18:52:10Z</updated>
 		<published>2009-03-07T18:45:19Z</published>
-		<category scheme="/" term="AG" />		<summary type="html"><![CDATA[  Communiqués et motions de la 5e coordination nationale des universités Communiqué du soir Vendredi 6 mars 2009, 19h45 La Coordination Nationale des Universités dénonce une nouvelle provocation du Ministère. Comme vendredi dernier à la même heure, Valérie Pécresse fait croire à une avancée significative des pseudo-négociations engagées avec trois syndicats minoritaires. La Coordination Nationale [&#8230;]]]></summary>
-		<content type="html" xml:base="/06032009-compte-rendu-de-la-cnu/"><![CDATA[<p> </p>
+		<category scheme="/statest/" term="AG" />		<summary type="html"><![CDATA[  Communiqués et motions de la 5e coordination nationale des universités Communiqué du soir Vendredi 6 mars 2009, 19h45 La Coordination Nationale des Universités dénonce une nouvelle provocation du Ministère. Comme vendredi dernier à la même heure, Valérie Pécresse fait croire à une avancée significative des pseudo-négociations engagées avec trois syndicats minoritaires. La Coordination Nationale [&#8230;]]]></summary>
+		<content type="html" xml:base="/statest/06032009-compte-rendu-de-la-cnu/"><![CDATA[<p> </p>
 <p style="text-align: center; "><strong>Communiqués et motions de la 5e coordination nationale des universités</strong></p>
 <ul>
 <li>Communiqué du soir</li>
@@ -171,8 +171,8 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 <p>Rappel d&#8217;un moratoire des expertises ANR et AERES.</p>
 <p>Transmettre des cahiers de doléances aux élus locaux.</p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/06032009-compte-rendu-de-la-cnu/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/06032009-compte-rendu-de-la-cnu/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/06032009-compte-rendu-de-la-cnu/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/06032009-compte-rendu-de-la-cnu/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 		<entry>
@@ -181,15 +181,15 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[05/03/2009] Compte-rendu de la manifestation]]></title>
-		<link rel="alternate" type="text/html" href="/05032009-compte-rendu-de-la-manifestation/" />
-		<id>/?p=145</id>
+		<link rel="alternate" type="text/html" href="/statest/05032009-compte-rendu-de-la-manifestation/" />
+		<id>/statest/?p=145</id>
 		<updated>2009-03-08T18:52:42Z</updated>
 		<published>2009-03-05T23:26:05Z</published>
-		<category scheme="/" term="Manifestation" />		<summary type="html"><![CDATA[Le cortège a rassemblé entre 9000 et 15000 personnes. Les troupes de Jussieu sont parties de la place Denfert-Rochereau aux alentours de 15h30 (départ de la manifestation à 15h) et nous n&#8217;étions pas les derniers ! Il faisait beau et froid et l&#8217;ambiance était joyeuse. Dispersion dans le calme vers 18h, au métro Varennes.]]></summary>
-		<content type="html" xml:base="/05032009-compte-rendu-de-la-manifestation/"><![CDATA[<p>Le cortège a rassemblé entre 9000 et 15000 personnes. Les troupes de Jussieu sont parties de la place Denfert-Rochereau aux alentours de 15h30 (départ de la manifestation à 15h) et nous n&#8217;étions pas les derniers ! Il faisait beau et froid et l&#8217;ambiance était joyeuse. Dispersion dans le calme vers 18h, au métro Varennes.</p>
+		<category scheme="/statest/" term="Manifestation" />		<summary type="html"><![CDATA[Le cortège a rassemblé entre 9000 et 15000 personnes. Les troupes de Jussieu sont parties de la place Denfert-Rochereau aux alentours de 15h30 (départ de la manifestation à 15h) et nous n&#8217;étions pas les derniers ! Il faisait beau et froid et l&#8217;ambiance était joyeuse. Dispersion dans le calme vers 18h, au métro Varennes.]]></summary>
+		<content type="html" xml:base="/statest/05032009-compte-rendu-de-la-manifestation/"><![CDATA[<p>Le cortège a rassemblé entre 9000 et 15000 personnes. Les troupes de Jussieu sont parties de la place Denfert-Rochereau aux alentours de 15h30 (départ de la manifestation à 15h) et nous n&#8217;étions pas les derniers ! Il faisait beau et froid et l&#8217;ambiance était joyeuse. Dispersion dans le calme vers 18h, au métro Varennes.</p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/05032009-compte-rendu-de-la-manifestation/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/05032009-compte-rendu-de-la-manifestation/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/05032009-compte-rendu-de-la-manifestation/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/05032009-compte-rendu-de-la-manifestation/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 		<entry>
@@ -198,15 +198,15 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[05/03/2009] Manifestation]]></title>
-		<link rel="alternate" type="text/html" href="/05032009-manifestation/" />
-		<id>/?p=115</id>
+		<link rel="alternate" type="text/html" href="/statest/05032009-manifestation/" />
+		<id>/statest/?p=115</id>
 		<updated>2009-03-05T23:14:22Z</updated>
 		<published>2009-03-05T18:20:08Z</published>
-		<category scheme="/" term="Manifestation" />		<summary type="html"><![CDATA[La manifestation du 5 mars partira à 15h de la place Denfert-Rochereau. La fin de parcours est prévue à Varennes. Venez nombreux !]]></summary>
-		<content type="html" xml:base="/05032009-manifestation/"><![CDATA[<p>La manifestation du 5 mars partira à 15h de la place Denfert-Rochereau. La fin de parcours est prévue à Varennes. Venez nombreux !</p>
+		<category scheme="/statest/" term="Manifestation" />		<summary type="html"><![CDATA[La manifestation du 5 mars partira à 15h de la place Denfert-Rochereau. La fin de parcours est prévue à Varennes. Venez nombreux !]]></summary>
+		<content type="html" xml:base="/statest/05032009-manifestation/"><![CDATA[<p>La manifestation du 5 mars partira à 15h de la place Denfert-Rochereau. La fin de parcours est prévue à Varennes. Venez nombreux !</p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/05032009-manifestation/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/05032009-manifestation/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/05032009-manifestation/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/05032009-manifestation/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 		<entry>
@@ -215,15 +215,15 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[05/03/2009] Assemblée générale mixte]]></title>
-		<link rel="alternate" type="text/html" href="/05032009-assemblee-generale-mixte/" />
-		<id>/?p=118</id>
+		<link rel="alternate" type="text/html" href="/statest/05032009-assemblee-generale-mixte/" />
+		<id>/statest/?p=118</id>
 		<updated>2009-03-05T23:14:00Z</updated>
 		<published>2009-03-05T16:29:11Z</published>
-		<category scheme="/" term="AG" />		<summary type="html"><![CDATA[Une assemblée générale réunissant étudiants et enseignants-chercheurs aura lieu Jeudi 5 mars à 12h30 en amphithéâtre 43. Au vu de la faible mobilisation sur le campus, il est très important de venir à cette assemblée ! Le départ pour la manifestation aura lieu dès la fin de l&#8217;assemblée générale.]]></summary>
-		<content type="html" xml:base="/05032009-assemblee-generale-mixte/"><![CDATA[<p>Une assemblée générale réunissant étudiants et enseignants-chercheurs aura lieu Jeudi 5 mars à 12h30 en amphithéâtre 43. Au vu de la faible mobilisation sur le campus, il est très important de venir à cette assemblée ! Le départ pour la manifestation aura lieu dès la fin de l&#8217;assemblée générale.</p>
+		<category scheme="/statest/" term="AG" />		<summary type="html"><![CDATA[Une assemblée générale réunissant étudiants et enseignants-chercheurs aura lieu Jeudi 5 mars à 12h30 en amphithéâtre 43. Au vu de la faible mobilisation sur le campus, il est très important de venir à cette assemblée ! Le départ pour la manifestation aura lieu dès la fin de l&#8217;assemblée générale.]]></summary>
+		<content type="html" xml:base="/statest/05032009-assemblee-generale-mixte/"><![CDATA[<p>Une assemblée générale réunissant étudiants et enseignants-chercheurs aura lieu Jeudi 5 mars à 12h30 en amphithéâtre 43. Au vu de la faible mobilisation sur le campus, il est très important de venir à cette assemblée ! Le départ pour la manifestation aura lieu dès la fin de l&#8217;assemblée générale.</p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/05032009-assemblee-generale-mixte/#comments" thr:count="1"/>
-		<link rel="replies" type="application/atom+xml" href="/05032009-assemblee-generale-mixte/feed/atom/" thr:count="1"/>
+			<link rel="replies" type="text/html" href="/statest/05032009-assemblee-generale-mixte/#comments" thr:count="1"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/05032009-assemblee-generale-mixte/feed/atom/" thr:count="1"/>
 		<thr:total>1</thr:total>
 		</entry>
 		<entry>
@@ -232,17 +232,17 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[04/03/2009] Chaîne humaine autour de la Sorbonne]]></title>
-		<link rel="alternate" type="text/html" href="/04032009-chaine-humaine-autour-de-la-sorbonne/" />
-		<id>/?p=146</id>
+		<link rel="alternate" type="text/html" href="/statest/04032009-chaine-humaine-autour-de-la-sorbonne/" />
+		<id>/statest/?p=146</id>
 		<updated>2009-03-05T23:20:43Z</updated>
 		<published>2009-03-05T04:16:22Z</published>
-		<category scheme="/" term="Actions" />		<summary type="html"><![CDATA[Une vidéo valant mieux qu&#8217;un long discours :]]></summary>
-		<content type="html" xml:base="/04032009-chaine-humaine-autour-de-la-sorbonne/"><![CDATA[<p>Une vidéo valant mieux qu&#8217;un long discours :<br />
+		<category scheme="/statest/" term="Actions" />		<summary type="html"><![CDATA[Une vidéo valant mieux qu&#8217;un long discours :]]></summary>
+		<content type="html" xml:base="/statest/04032009-chaine-humaine-autour-de-la-sorbonne/"><![CDATA[<p>Une vidéo valant mieux qu&#8217;un long discours :<br />
 <br />
 <object width="445" height="364"><param name="movie" value="http://www.youtube.com/v/znYmJQi2yig&#038;hl=fr&#038;fs=1&#038;rel=0&#038;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/znYmJQi2yig&#038;hl=fr&#038;fs=1&#038;rel=0&#038;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="445" height="364"></embed></object></p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/04032009-chaine-humaine-autour-de-la-sorbonne/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/04032009-chaine-humaine-autour-de-la-sorbonne/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/04032009-chaine-humaine-autour-de-la-sorbonne/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/04032009-chaine-humaine-autour-de-la-sorbonne/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 		<entry>
@@ -251,12 +251,12 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[04/03/2009] Action devant la maison de la radio]]></title>
-		<link rel="alternate" type="text/html" href="/04032009-action-devant-la-maison-de-la-radio/" />
-		<id>/?p=138</id>
+		<link rel="alternate" type="text/html" href="/statest/04032009-action-devant-la-maison-de-la-radio/" />
+		<id>/statest/?p=138</id>
 		<updated>2009-03-05T23:12:24Z</updated>
 		<published>2009-03-05T02:06:46Z</published>
-		<category scheme="/" term="Actions" />		<summary type="html"><![CDATA[Voici quelques photos de la distribution de tracts devant la maison de la radio menée par les informaticiens de l&#8217;UFR d&#8217;Ingénierie ce midi. Album complet sur flickr à l&#8217;adresse suivante :]]></summary>
-		<content type="html" xml:base="/04032009-action-devant-la-maison-de-la-radio/"><![CDATA[<p>Voici quelques photos de la distribution de tracts devant la maison de la radio menée par les informaticiens de l&#8217;UFR d&#8217;Ingénierie ce midi.<br />
+		<category scheme="/statest/" term="Actions" />		<summary type="html"><![CDATA[Voici quelques photos de la distribution de tracts devant la maison de la radio menée par les informaticiens de l&#8217;UFR d&#8217;Ingénierie ce midi. Album complet sur flickr à l&#8217;adresse suivante :]]></summary>
+		<content type="html" xml:base="/statest/04032009-action-devant-la-maison-de-la-radio/"><![CDATA[<p>Voici quelques photos de la distribution de tracts devant la maison de la radio menée par les informaticiens de l&#8217;UFR d&#8217;Ingénierie ce midi.<br />
 <br />
 <img alt="" src="http://farm4.static.flickr.com/3015/3329580946_d9d9025fbf.jpg?v=0" title="Distribution devant la maison de la radio" class="aligncenter" width="500" height="375" /><br />
 <img alt="" src="http://farm4.static.flickr.com/3331/3329581230_5f522ef7d5.jpg?v=0" title="Distribution devant la maison de la radio" class="aligncenter" width="500" height="375" /><br />
@@ -264,8 +264,8 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 <p>Album complet sur flickr à l&#8217;adresse suivante :<br />
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/25778903@n04/sets/72157614738259021/" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.flickr.com');" title="tract by nadiahubertphoto, on Flickr"><img src="https://farm4.staticflickr.com/3624/3329580492_7bd9f7be44.jpg" width="500" height="375" alt="DSC02610"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/04032009-action-devant-la-maison-de-la-radio/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/04032009-action-devant-la-maison-de-la-radio/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/04032009-action-devant-la-maison-de-la-radio/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/04032009-action-devant-la-maison-de-la-radio/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 		<entry>
@@ -274,15 +274,15 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 						<uri>http://</uri>
 					</author>
 		<title type="html"><![CDATA[[03/03/2009] Assemblée générale étudiante]]></title>
-		<link rel="alternate" type="text/html" href="/03032009-assemblee-generale-etudiante/" />
-		<id>/?p=116</id>
+		<link rel="alternate" type="text/html" href="/statest/03032009-assemblee-generale-etudiante/" />
+		<id>/statest/?p=116</id>
 		<updated>2009-03-04T03:31:19Z</updated>
 		<published>2009-03-03T03:25:26Z</published>
-		<category scheme="/" term="AG" />		<summary type="html"><![CDATA[Demain, assemblée générale étudiante à 12h30 en amphithéâtre 43.]]></summary>
-		<content type="html" xml:base="/03032009-assemblee-generale-etudiante/"><![CDATA[<p>Demain, assemblée générale étudiante à 12h30 en amphithéâtre 43.</p>
+		<category scheme="/statest/" term="AG" />		<summary type="html"><![CDATA[Demain, assemblée générale étudiante à 12h30 en amphithéâtre 43.]]></summary>
+		<content type="html" xml:base="/statest/03032009-assemblee-generale-etudiante/"><![CDATA[<p>Demain, assemblée générale étudiante à 12h30 en amphithéâtre 43.</p>
 ]]></content>
-			<link rel="replies" type="text/html" href="/03032009-assemblee-generale-etudiante/#comments" thr:count="0"/>
-		<link rel="replies" type="application/atom+xml" href="/03032009-assemblee-generale-etudiante/feed/atom/" thr:count="0"/>
+			<link rel="replies" type="text/html" href="/statest/03032009-assemblee-generale-etudiante/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="/statest/03032009-assemblee-generale-etudiante/feed/atom/" thr:count="0"/>
 		<thr:total>0</thr:total>
 		</entry>
 	</feed>

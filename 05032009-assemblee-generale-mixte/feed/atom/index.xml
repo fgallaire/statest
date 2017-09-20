@@ -8,24 +8,24 @@
 
 	<updated>2009-03-04T08:39:25Z</updated>
 
-	<link rel="alternate" type="text/html" href="/05032009-assemblee-generale-mixte/#comments" />
-	<link rel="self" type="application/atom+xml" href="/05032009-assemblee-generale-mixte/feed/atom/" />
-	<id>/05032009-assemblee-generale-mixte/feed/atom/</id>
+	<link rel="alternate" type="text/html" href="/statest/05032009-assemblee-generale-mixte/#comments" />
+	<link rel="self" type="application/atom+xml" href="/statest/05032009-assemblee-generale-mixte/feed/atom/" />
+	<id>/statest/05032009-assemblee-generale-mixte/feed/atom/</id>
 <generator uri="https://wordpress.org/" version="4.8.2">WordPress</generator>
 	<entry>
 		<title>By: sophie</title>
-		<link rel="alternate" href="/05032009-assemblee-generale-mixte/comment-page-1/#comment-5" type="text/html" />
+		<link rel="alternate" href="/statest/05032009-assemblee-generale-mixte/comment-page-1/#comment-5" type="text/html" />
 
 		<author>
 			<name>sophie</name>
 			
 		</author>
 
-		<id>/?p=118#comment-5</id>
+		<id>/statest/?p=118#comment-5</id>
 		<updated>2009-03-04T08:39:25Z</updated>
 		<published>2009-03-04T08:39:25Z</published>
-		<content type="html" xml:base="/05032009-assemblee-generale-mixte/comment-page-1/#comment-5"><![CDATA[<p>a quelle heure?</p>
+		<content type="html" xml:base="/statest/05032009-assemblee-generale-mixte/comment-page-1/#comment-5"><![CDATA[<p>a quelle heure?</p>
 ]]></content>
-		<thr:in-reply-to ref="/?p=118" href="/05032009-assemblee-generale-mixte/" type="text/html" />
+		<thr:in-reply-to ref="/statest/?p=118" href="/statest/05032009-assemblee-generale-mixte/" type="text/html" />
 	</entry>
 </feed>

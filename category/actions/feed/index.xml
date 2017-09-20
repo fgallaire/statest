@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Actions &#8211; Jussieu en lutte !</title>
-	<atom:link href="/category/actions/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/statest/category/actions/feed/" rel="self" type="application/rss+xml" />
+	<link>/statest/</link>
 	<description>La mobilisation à Jussieu</description>
 	<lastBuildDate>Wed, 11 Mar 2009 00:48:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,45 +19,45 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>[10/03/2009] Action gare de Lyon</title>
-		<link>/10032009-action-gare-de-lyon/</link>
-		<comments>/10032009-action-gare-de-lyon/#respond</comments>
+		<link>/statest/10032009-action-gare-de-lyon/</link>
+		<comments>/statest/10032009-action-gare-de-lyon/#respond</comments>
 		<pubDate>Tue, 10 Mar 2009 00:46:32 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=170</guid>
+		<guid isPermaLink="false">/statest/?p=170</guid>
 		<description><![CDATA[Cours hors les murs et tractage organisés par les enseignants et les étudiants de Jussieu et de PRG, demain à partir de 16h, gare de Lyon !]]></description>
 				<content:encoded><![CDATA[<p>Cours hors les murs et tractage organisés par les enseignants et les étudiants de Jussieu et de PRG, demain à partir de 16h, gare de Lyon !</p>
 ]]></content:encoded>
-			<wfw:commentRss>/10032009-action-gare-de-lyon/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/10032009-action-gare-de-lyon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[04/03/2009] Chaîne humaine autour de la Sorbonne</title>
-		<link>/04032009-chaine-humaine-autour-de-la-sorbonne/</link>
-		<comments>/04032009-chaine-humaine-autour-de-la-sorbonne/#respond</comments>
+		<link>/statest/04032009-chaine-humaine-autour-de-la-sorbonne/</link>
+		<comments>/statest/04032009-chaine-humaine-autour-de-la-sorbonne/#respond</comments>
 		<pubDate>Thu, 05 Mar 2009 04:16:22 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=146</guid>
+		<guid isPermaLink="false">/statest/?p=146</guid>
 		<description><![CDATA[Une vidéo valant mieux qu&#8217;un long discours :]]></description>
 				<content:encoded><![CDATA[<p>Une vidéo valant mieux qu&#8217;un long discours :<br />
 <br />
 <object width="445" height="364"><param name="movie" value="http://www.youtube.com/v/znYmJQi2yig&#038;hl=fr&#038;fs=1&#038;rel=0&#038;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/znYmJQi2yig&#038;hl=fr&#038;fs=1&#038;rel=0&#038;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="445" height="364"></embed></object></p>
 ]]></content:encoded>
-			<wfw:commentRss>/04032009-chaine-humaine-autour-de-la-sorbonne/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/04032009-chaine-humaine-autour-de-la-sorbonne/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[04/03/2009] Action devant la maison de la radio</title>
-		<link>/04032009-action-devant-la-maison-de-la-radio/</link>
-		<comments>/04032009-action-devant-la-maison-de-la-radio/#respond</comments>
+		<link>/statest/04032009-action-devant-la-maison-de-la-radio/</link>
+		<comments>/statest/04032009-action-devant-la-maison-de-la-radio/#respond</comments>
 		<pubDate>Thu, 05 Mar 2009 02:06:46 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=138</guid>
+		<guid isPermaLink="false">/statest/?p=138</guid>
 		<description><![CDATA[Voici quelques photos de la distribution de tracts devant la maison de la radio menée par les informaticiens de l&#8217;UFR d&#8217;Ingénierie ce midi. Album complet sur flickr à l&#8217;adresse suivante :]]></description>
 				<content:encoded><![CDATA[<p>Voici quelques photos de la distribution de tracts devant la maison de la radio menée par les informaticiens de l&#8217;UFR d&#8217;Ingénierie ce midi.<br />
 <br />
@@ -67,96 +67,96 @@
 <p>Album complet sur flickr à l&#8217;adresse suivante :<br />
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/25778903@n04/sets/72157614738259021/" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.flickr.com');" title="tract by nadiahubertphoto, on Flickr"><img src="https://farm4.staticflickr.com/3624/3329580492_7bd9f7be44.jpg" width="500" height="375" alt="DSC02610"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 ]]></content:encoded>
-			<wfw:commentRss>/04032009-action-devant-la-maison-de-la-radio/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/04032009-action-devant-la-maison-de-la-radio/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Humour noir</title>
-		<link>/humour-noir/</link>
-		<comments>/humour-noir/#respond</comments>
+		<link>/statest/humour-noir/</link>
+		<comments>/statest/humour-noir/#respond</comments>
 		<pubDate>Tue, 24 Feb 2009 01:07:45 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=109</guid>
+		<guid isPermaLink="false">/statest/?p=109</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<p style="text-align: center;"><img class="aligncenter" title="Police partout, justice nulle part !" src="http://universitesenlutte.files.wordpress.com/2009/02/banqueuniversiteusine001.jpg" alt="" width="632" height="859" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>/humour-noir/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/humour-noir/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[20/02/2009] Journée d&#8217;information</title>
-		<link>/20022009-journee-dinformation/</link>
-		<comments>/20022009-journee-dinformation/#respond</comments>
+		<link>/statest/20022009-journee-dinformation/</link>
+		<comments>/statest/20022009-journee-dinformation/#respond</comments>
 		<pubDate>Fri, 20 Feb 2009 03:08:30 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=106</guid>
+		<guid isPermaLink="false">/statest/?p=106</guid>
 		<description><![CDATA[Les mathématiciens ont organisé une journée d’information-débats vendredi 20. On peut consulter le programme sur la page : http://people.math.jussieu.fr/~brugalle/Info/index.html Il n’est pas nécessaire d’être mathématicien pour y participer : tous sont invités. L’endroit : 175 rue du Chevaleret (métro Chevaleret)]]></description>
 				<content:encoded><![CDATA[<p>Les mathématiciens ont organisé une journée d’information-débats vendredi 20. On peut consulter le programme sur la page :</p>
 <p>http://people.math.jussieu.fr/~brugalle/Info/index.html</p>
 <p>Il n’est pas nécessaire d’être mathématicien pour y participer : tous sont invités.</p>
 <p>L’endroit : 175 rue du Chevaleret (métro Chevaleret)</p>
 ]]></content:encoded>
-			<wfw:commentRss>/20022009-journee-dinformation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/20022009-journee-dinformation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[17/02/2009] Action gare de Lyon</title>
-		<link>/17022009-action-gare-de-lyon/</link>
-		<comments>/17022009-action-gare-de-lyon/#respond</comments>
+		<link>/statest/17022009-action-gare-de-lyon/</link>
+		<comments>/statest/17022009-action-gare-de-lyon/#respond</comments>
 		<pubDate>Wed, 18 Feb 2009 19:44:20 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=83</guid>
+		<guid isPermaLink="false">/statest/?p=83</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/4afmonzn0Xw&#038;hl=fr&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4afmonzn0Xw&#038;hl=fr&#038;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
 ]]></content:encoded>
-			<wfw:commentRss>/17022009-action-gare-de-lyon/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/17022009-action-gare-de-lyon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[13/02/2009] Comité de mobilisation</title>
-		<link>/13022009-comite-de-mobilisation/</link>
-		<comments>/13022009-comite-de-mobilisation/#respond</comments>
+		<link>/statest/13022009-comite-de-mobilisation/</link>
+		<comments>/statest/13022009-comite-de-mobilisation/#respond</comments>
 		<pubDate>Thu, 12 Feb 2009 17:49:20 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=75</guid>
+		<guid isPermaLink="false">/statest/?p=75</guid>
 		<description><![CDATA[Prochain comité de mobilisation, demain à 10h. Rendez-vous au point info, au pied de la tour 44.]]></description>
 				<content:encoded><![CDATA[<p>Prochain comité de mobilisation, demain à 10h. Rendez-vous au point info, au pied de la tour 44.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/13022009-comite-de-mobilisation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/13022009-comite-de-mobilisation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[11/02/2009] Comité de mobilisation</title>
-		<link>/11022009-comite-de-mobilisation/</link>
-		<comments>/11022009-comite-de-mobilisation/#respond</comments>
+		<link>/statest/11022009-comite-de-mobilisation/</link>
+		<comments>/statest/11022009-comite-de-mobilisation/#respond</comments>
 		<pubDate>Tue, 10 Feb 2009 15:15:32 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=53</guid>
+		<guid isPermaLink="false">/statest/?p=53</guid>
 		<description><![CDATA[Comité de mob&#8217; demain à 17h. Rendez-vous en bas de la tour 44.]]></description>
 				<content:encoded><![CDATA[<p>Comité de mob&#8217; demain à 17h. Rendez-vous en bas de la tour 44.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/11022009-comite-de-mobilisation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/11022009-comite-de-mobilisation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[09/02/2009] CA au rectorat : compte-rendu</title>
-		<link>/09022009-ca-au-rectorat-compte-rendu/</link>
-		<comments>/09022009-ca-au-rectorat-compte-rendu/#respond</comments>
+		<link>/statest/09022009-ca-au-rectorat-compte-rendu/</link>
+		<comments>/statest/09022009-ca-au-rectorat-compte-rendu/#respond</comments>
 		<pubDate>Mon, 09 Feb 2009 15:02:17 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=56</guid>
+		<guid isPermaLink="false">/statest/?p=56</guid>
 		<description><![CDATA[Lundi 9 février, le premier Conseil d’Administration de Paris 6 sous le régime de l’autonomie s’est tenu hors de son enceinte, l’université étant en grève. Espérant échapper à la contestation de ses personnels et de ses étudiants, le président Pomerol s’était résigné à convoquer le CA au rectorat, sous la protection des gendarmes mobiles. Au [&#8230;]]]></description>
 				<content:encoded><![CDATA[<div class="surlignable">
 <div class="texte entry-content">
@@ -166,24 +166,24 @@
 <p><em>source : réinventer l&#8217;université</em></div>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/09022009-ca-au-rectorat-compte-rendu/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/09022009-ca-au-rectorat-compte-rendu/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[09/02/2009] CA au rectorat</title>
-		<link>/09022009-ca-au-rectorat/</link>
-		<comments>/09022009-ca-au-rectorat/#respond</comments>
+		<link>/statest/09022009-ca-au-rectorat/</link>
+		<comments>/statest/09022009-ca-au-rectorat/#respond</comments>
 		<pubDate>Fri, 06 Feb 2009 01:25:06 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=15</guid>
+		<guid isPermaLink="false">/statest/?p=15</guid>
 		<description><![CDATA[Faisant suite à l&#8217;annulation du conseil scientifique (CS) du lundi 2 février, la présidence de l&#8217;UPMC a décidé de transférer la séance du conseil d&#8217;administration (CA) du lundi 9 février au rectorat de Paris, dans les locaux de la Sorbonne. L&#8217;assemblée générale du 2 février et celle du 5 février ont voté en faveur d&#8217;une [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Faisant suite à l&#8217;annulation du conseil scientifique (CS) du lundi 2 février, la présidence de l&#8217;UPMC a décidé de transférer la séance du conseil d&#8217;administration (CA) du lundi 9 février au rectorat de Paris, dans les locaux de la Sorbonne.</p>
 <p>L&#8217;assemblée générale du 2 février et celle du 5 février ont voté en faveur d&#8217;une action visant à l&#8217;annulation du CA. Plus de détails bientôt.</p>
 <p>[MAJ] Le rendez-vous est fixé à 11h, à Jussieu.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/09022009-ca-au-rectorat/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/09022009-ca-au-rectorat/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Jussieu en lutte !</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/statest/feed/" rel="self" type="application/rss+xml" />
+	<link>/statest/</link>
 	<description>La mobilisation à Jussieu</description>
 	<lastBuildDate>Wed, 11 Mar 2009 00:48:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,58 +19,58 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>[11/03/2009] Assemblée générale, amphithéâtre 34A</title>
-		<link>/11032009-assemblee-generale-amphitheatre-34a/</link>
-		<comments>/11032009-assemblee-generale-amphitheatre-34a/#respond</comments>
+		<link>/statest/11032009-assemblee-generale-amphitheatre-34a/</link>
+		<comments>/statest/11032009-assemblee-generale-amphitheatre-34a/#respond</comments>
 		<pubDate>Wed, 11 Mar 2009 00:44:00 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=165</guid>
+		<guid isPermaLink="false">/statest/?p=165</guid>
 		<description><![CDATA[Demain, mercredi 11 mars aura lieu, en amphithéâtre 34A, une assemblée générale de l&#8217;ensemble de la communauté universitaire. Le blocage de l&#8217;université sera mis à l&#8217;ordre du jour. Départ pour la manifestation prévu à la fin de l&#8217;assemblée, rendez-vous place Jussieu. Venez nombreux.]]></description>
 				<content:encoded><![CDATA[<p>Demain, mercredi 11 mars aura lieu, en amphithéâtre 34A, une assemblée générale de l&#8217;ensemble de la communauté universitaire. Le blocage de l&#8217;université sera mis à l&#8217;ordre du jour. Départ pour la manifestation prévu à la fin de l&#8217;assemblée, rendez-vous place Jussieu. Venez nombreux.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/11032009-assemblee-generale-amphitheatre-34a/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/11032009-assemblee-generale-amphitheatre-34a/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[10/03/2009] Action gare de Lyon</title>
-		<link>/10032009-action-gare-de-lyon/</link>
-		<comments>/10032009-action-gare-de-lyon/#respond</comments>
+		<link>/statest/10032009-action-gare-de-lyon/</link>
+		<comments>/statest/10032009-action-gare-de-lyon/#respond</comments>
 		<pubDate>Tue, 10 Mar 2009 00:46:32 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=170</guid>
+		<guid isPermaLink="false">/statest/?p=170</guid>
 		<description><![CDATA[Cours hors les murs et tractage organisés par les enseignants et les étudiants de Jussieu et de PRG, demain à partir de 16h, gare de Lyon !]]></description>
 				<content:encoded><![CDATA[<p>Cours hors les murs et tractage organisés par les enseignants et les étudiants de Jussieu et de PRG, demain à partir de 16h, gare de Lyon !</p>
 ]]></content:encoded>
-			<wfw:commentRss>/10032009-action-gare-de-lyon/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/10032009-action-gare-de-lyon/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[09/03/2009] Comité de mobilisation</title>
-		<link>/09032009-comite-de-mobilisation/</link>
-		<comments>/09032009-comite-de-mobilisation/#respond</comments>
+		<link>/statest/09032009-comite-de-mobilisation/</link>
+		<comments>/statest/09032009-comite-de-mobilisation/#respond</comments>
 		<pubDate>Tue, 10 Mar 2009 00:44:23 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=167</guid>
+		<guid isPermaLink="false">/statest/?p=167</guid>
 		<description><![CDATA[Comité de mobilisation, aujourd&#8217;hui à 12H30.]]></description>
 				<content:encoded><![CDATA[<p>Comité de mobilisation, aujourd&#8217;hui à 12H30.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/09032009-comite-de-mobilisation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/09032009-comite-de-mobilisation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[06/03/2009] Compte-rendu de la CNU</title>
-		<link>/06032009-compte-rendu-de-la-cnu/</link>
-		<comments>/06032009-compte-rendu-de-la-cnu/#respond</comments>
+		<link>/statest/06032009-compte-rendu-de-la-cnu/</link>
+		<comments>/statest/06032009-compte-rendu-de-la-cnu/#respond</comments>
 		<pubDate>Sat, 07 Mar 2009 18:45:19 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=158</guid>
+		<guid isPermaLink="false">/statest/?p=158</guid>
 		<description><![CDATA[  Communiqués et motions de la 5e coordination nationale des universités Communiqué du soir Vendredi 6 mars 2009, 19h45 La Coordination Nationale des Universités dénonce une nouvelle provocation du Ministère. Comme vendredi dernier à la même heure, Valérie Pécresse fait croire à une avancée significative des pseudo-négociations engagées avec trois syndicats minoritaires. La Coordination Nationale [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p> </p>
 <p style="text-align: center; "><strong>Communiqués et motions de la 5e coordination nationale des universités</strong></p>
@@ -167,80 +167,80 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 <p>Rappel d&#8217;un moratoire des expertises ANR et AERES.</p>
 <p>Transmettre des cahiers de doléances aux élus locaux.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/06032009-compte-rendu-de-la-cnu/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/06032009-compte-rendu-de-la-cnu/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[05/03/2009] Compte-rendu de la manifestation</title>
-		<link>/05032009-compte-rendu-de-la-manifestation/</link>
-		<comments>/05032009-compte-rendu-de-la-manifestation/#respond</comments>
+		<link>/statest/05032009-compte-rendu-de-la-manifestation/</link>
+		<comments>/statest/05032009-compte-rendu-de-la-manifestation/#respond</comments>
 		<pubDate>Thu, 05 Mar 2009 23:26:05 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=145</guid>
+		<guid isPermaLink="false">/statest/?p=145</guid>
 		<description><![CDATA[Le cortège a rassemblé entre 9000 et 15000 personnes. Les troupes de Jussieu sont parties de la place Denfert-Rochereau aux alentours de 15h30 (départ de la manifestation à 15h) et nous n&#8217;étions pas les derniers ! Il faisait beau et froid et l&#8217;ambiance était joyeuse. Dispersion dans le calme vers 18h, au métro Varennes.]]></description>
 				<content:encoded><![CDATA[<p>Le cortège a rassemblé entre 9000 et 15000 personnes. Les troupes de Jussieu sont parties de la place Denfert-Rochereau aux alentours de 15h30 (départ de la manifestation à 15h) et nous n&#8217;étions pas les derniers ! Il faisait beau et froid et l&#8217;ambiance était joyeuse. Dispersion dans le calme vers 18h, au métro Varennes.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/05032009-compte-rendu-de-la-manifestation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/05032009-compte-rendu-de-la-manifestation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[05/03/2009] Manifestation</title>
-		<link>/05032009-manifestation/</link>
-		<comments>/05032009-manifestation/#respond</comments>
+		<link>/statest/05032009-manifestation/</link>
+		<comments>/statest/05032009-manifestation/#respond</comments>
 		<pubDate>Thu, 05 Mar 2009 18:20:08 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=115</guid>
+		<guid isPermaLink="false">/statest/?p=115</guid>
 		<description><![CDATA[La manifestation du 5 mars partira à 15h de la place Denfert-Rochereau. La fin de parcours est prévue à Varennes. Venez nombreux !]]></description>
 				<content:encoded><![CDATA[<p>La manifestation du 5 mars partira à 15h de la place Denfert-Rochereau. La fin de parcours est prévue à Varennes. Venez nombreux !</p>
 ]]></content:encoded>
-			<wfw:commentRss>/05032009-manifestation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/05032009-manifestation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[05/03/2009] Assemblée générale mixte</title>
-		<link>/05032009-assemblee-generale-mixte/</link>
-		<comments>/05032009-assemblee-generale-mixte/#comments</comments>
+		<link>/statest/05032009-assemblee-generale-mixte/</link>
+		<comments>/statest/05032009-assemblee-generale-mixte/#comments</comments>
 		<pubDate>Thu, 05 Mar 2009 16:29:11 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=118</guid>
+		<guid isPermaLink="false">/statest/?p=118</guid>
 		<description><![CDATA[Une assemblée générale réunissant étudiants et enseignants-chercheurs aura lieu Jeudi 5 mars à 12h30 en amphithéâtre 43. Au vu de la faible mobilisation sur le campus, il est très important de venir à cette assemblée ! Le départ pour la manifestation aura lieu dès la fin de l&#8217;assemblée générale.]]></description>
 				<content:encoded><![CDATA[<p>Une assemblée générale réunissant étudiants et enseignants-chercheurs aura lieu Jeudi 5 mars à 12h30 en amphithéâtre 43. Au vu de la faible mobilisation sur le campus, il est très important de venir à cette assemblée ! Le départ pour la manifestation aura lieu dès la fin de l&#8217;assemblée générale.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/05032009-assemblee-generale-mixte/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/05032009-assemblee-generale-mixte/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>[04/03/2009] Chaîne humaine autour de la Sorbonne</title>
-		<link>/04032009-chaine-humaine-autour-de-la-sorbonne/</link>
-		<comments>/04032009-chaine-humaine-autour-de-la-sorbonne/#respond</comments>
+		<link>/statest/04032009-chaine-humaine-autour-de-la-sorbonne/</link>
+		<comments>/statest/04032009-chaine-humaine-autour-de-la-sorbonne/#respond</comments>
 		<pubDate>Thu, 05 Mar 2009 04:16:22 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=146</guid>
+		<guid isPermaLink="false">/statest/?p=146</guid>
 		<description><![CDATA[Une vidéo valant mieux qu&#8217;un long discours :]]></description>
 				<content:encoded><![CDATA[<p>Une vidéo valant mieux qu&#8217;un long discours :<br />
 <br />
 <object width="445" height="364"><param name="movie" value="http://www.youtube.com/v/znYmJQi2yig&#038;hl=fr&#038;fs=1&#038;rel=0&#038;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/znYmJQi2yig&#038;hl=fr&#038;fs=1&#038;rel=0&#038;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="445" height="364"></embed></object></p>
 ]]></content:encoded>
-			<wfw:commentRss>/04032009-chaine-humaine-autour-de-la-sorbonne/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/04032009-chaine-humaine-autour-de-la-sorbonne/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[04/03/2009] Action devant la maison de la radio</title>
-		<link>/04032009-action-devant-la-maison-de-la-radio/</link>
-		<comments>/04032009-action-devant-la-maison-de-la-radio/#respond</comments>
+		<link>/statest/04032009-action-devant-la-maison-de-la-radio/</link>
+		<comments>/statest/04032009-action-devant-la-maison-de-la-radio/#respond</comments>
 		<pubDate>Thu, 05 Mar 2009 02:06:46 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Actions]]></category>
 
-		<guid isPermaLink="false">/?p=138</guid>
+		<guid isPermaLink="false">/statest/?p=138</guid>
 		<description><![CDATA[Voici quelques photos de la distribution de tracts devant la maison de la radio menée par les informaticiens de l&#8217;UFR d&#8217;Ingénierie ce midi. Album complet sur flickr à l&#8217;adresse suivante :]]></description>
 				<content:encoded><![CDATA[<p>Voici quelques photos de la distribution de tracts devant la maison de la radio menée par les informaticiens de l&#8217;UFR d&#8217;Ingénierie ce midi.<br />
 <br />
@@ -250,22 +250,22 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 <p>Album complet sur flickr à l&#8217;adresse suivante :<br />
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/25778903@n04/sets/72157614738259021/" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.flickr.com');" title="tract by nadiahubertphoto, on Flickr"><img src="https://farm4.staticflickr.com/3624/3329580492_7bd9f7be44.jpg" width="500" height="375" alt="DSC02610"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 ]]></content:encoded>
-			<wfw:commentRss>/04032009-action-devant-la-maison-de-la-radio/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/04032009-action-devant-la-maison-de-la-radio/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[03/03/2009] Assemblée générale étudiante</title>
-		<link>/03032009-assemblee-generale-etudiante/</link>
-		<comments>/03032009-assemblee-generale-etudiante/#respond</comments>
+		<link>/statest/03032009-assemblee-generale-etudiante/</link>
+		<comments>/statest/03032009-assemblee-generale-etudiante/#respond</comments>
 		<pubDate>Tue, 03 Mar 2009 03:25:26 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=116</guid>
+		<guid isPermaLink="false">/statest/?p=116</guid>
 		<description><![CDATA[Demain, assemblée générale étudiante à 12h30 en amphithéâtre 43.]]></description>
 				<content:encoded><![CDATA[<p>Demain, assemblée générale étudiante à 12h30 en amphithéâtre 43.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/03032009-assemblee-generale-etudiante/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/03032009-assemblee-generale-etudiante/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

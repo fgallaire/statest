@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: AG dans les UFR</title>
-	<atom:link href="/ag-dans-les-ufr/feed/" rel="self" type="application/rss+xml" />
-	<link>/ag-dans-les-ufr/</link>
+	<atom:link href="/statest/ag-dans-les-ufr/feed/" rel="self" type="application/rss+xml" />
+	<link>/statest/ag-dans-les-ufr/</link>
 	<description>La mobilisation à Jussieu</description>
 	<lastBuildDate>Wed, 04 Mar 2009 08:39:25 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

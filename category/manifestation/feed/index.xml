@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Manifestation &#8211; Jussieu en lutte !</title>
-	<atom:link href="/category/manifestation/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/statest/category/manifestation/feed/" rel="self" type="application/rss+xml" />
+	<link>/statest/</link>
 	<description>La mobilisation à Jussieu</description>
 	<lastBuildDate>Wed, 11 Mar 2009 00:48:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,106 +19,106 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>[05/03/2009] Compte-rendu de la manifestation</title>
-		<link>/05032009-compte-rendu-de-la-manifestation/</link>
-		<comments>/05032009-compte-rendu-de-la-manifestation/#respond</comments>
+		<link>/statest/05032009-compte-rendu-de-la-manifestation/</link>
+		<comments>/statest/05032009-compte-rendu-de-la-manifestation/#respond</comments>
 		<pubDate>Thu, 05 Mar 2009 23:26:05 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=145</guid>
+		<guid isPermaLink="false">/statest/?p=145</guid>
 		<description><![CDATA[Le cortège a rassemblé entre 9000 et 15000 personnes. Les troupes de Jussieu sont parties de la place Denfert-Rochereau aux alentours de 15h30 (départ de la manifestation à 15h) et nous n&#8217;étions pas les derniers ! Il faisait beau et froid et l&#8217;ambiance était joyeuse. Dispersion dans le calme vers 18h, au métro Varennes.]]></description>
 				<content:encoded><![CDATA[<p>Le cortège a rassemblé entre 9000 et 15000 personnes. Les troupes de Jussieu sont parties de la place Denfert-Rochereau aux alentours de 15h30 (départ de la manifestation à 15h) et nous n&#8217;étions pas les derniers ! Il faisait beau et froid et l&#8217;ambiance était joyeuse. Dispersion dans le calme vers 18h, au métro Varennes.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/05032009-compte-rendu-de-la-manifestation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/05032009-compte-rendu-de-la-manifestation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[05/03/2009] Manifestation</title>
-		<link>/05032009-manifestation/</link>
-		<comments>/05032009-manifestation/#respond</comments>
+		<link>/statest/05032009-manifestation/</link>
+		<comments>/statest/05032009-manifestation/#respond</comments>
 		<pubDate>Thu, 05 Mar 2009 18:20:08 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=115</guid>
+		<guid isPermaLink="false">/statest/?p=115</guid>
 		<description><![CDATA[La manifestation du 5 mars partira à 15h de la place Denfert-Rochereau. La fin de parcours est prévue à Varennes. Venez nombreux !]]></description>
 				<content:encoded><![CDATA[<p>La manifestation du 5 mars partira à 15h de la place Denfert-Rochereau. La fin de parcours est prévue à Varennes. Venez nombreux !</p>
 ]]></content:encoded>
-			<wfw:commentRss>/05032009-manifestation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/05032009-manifestation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[26/02/2009] Compte-rendu de la manifestation</title>
-		<link>/26022009-compte-rendu-de-la-manifestation/</link>
-		<comments>/26022009-compte-rendu-de-la-manifestation/#respond</comments>
+		<link>/statest/26022009-compte-rendu-de-la-manifestation/</link>
+		<comments>/statest/26022009-compte-rendu-de-la-manifestation/#respond</comments>
 		<pubDate>Sat, 28 Feb 2009 03:33:15 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=129</guid>
+		<guid isPermaLink="false">/statest/?p=129</guid>
 		<description><![CDATA[Sous le thème du non-enterrement de l’enseignement supérieur et de la recherche, la manifestation d&#8217;hier à réunie entre 6000 et 10000 personnes. Comme prévue, beaucoup de personnes en deuil ! Voici une petite vidéo, histoire de se faire une idée 😉]]></description>
 				<content:encoded><![CDATA[<div>Sous le thème du non-enterrement de l’enseignement supérieur et de la recherche, la manifestation d&#8217;hier à réunie entre 6000 et 10000 personnes. Comme prévue, beaucoup de personnes en deuil ! Voici une petite vidéo, histoire de se faire une idée <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
 <p></p>
 <div style="text-align: center;"><object width="480" height="291" data="http://www.dailymotion.com/swf/k41STR803KpcusXZsT&amp;related=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://www.dailymotion.com/swf/k41STR803KpcusXZsT&amp;related=1" /><param name="allowfullscreen" value="true" /></object></div>
 ]]></content:encoded>
-			<wfw:commentRss>/26022009-compte-rendu-de-la-manifestation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/26022009-compte-rendu-de-la-manifestation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[19/02/2009] Manifestation</title>
-		<link>/19022009-manifestation/</link>
-		<comments>/19022009-manifestation/#respond</comments>
+		<link>/statest/19022009-manifestation/</link>
+		<comments>/statest/19022009-manifestation/#respond</comments>
 		<pubDate>Thu, 19 Feb 2009 03:02:47 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=102</guid>
+		<guid isPermaLink="false">/statest/?p=102</guid>
 		<description><![CDATA[La manifestation partira de place d’Italie à 15 h pour se diriger vers Matignon (arrêt à Sèvres Babylone).]]></description>
 				<content:encoded><![CDATA[<p>La manifestation partira de place d’Italie à 15 h pour se diriger vers Matignon (arrêt à Sèvres Babylone).</p>
 ]]></content:encoded>
-			<wfw:commentRss>/19022009-manifestation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/19022009-manifestation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>La réponse des étudiants</title>
-		<link>/la-reponse-des-etudiants/</link>
-		<comments>/la-reponse-des-etudiants/#respond</comments>
+		<link>/statest/la-reponse-des-etudiants/</link>
+		<comments>/statest/la-reponse-des-etudiants/#respond</comments>
 		<pubDate>Sun, 15 Feb 2009 18:28:36 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=77</guid>
+		<guid isPermaLink="false">/statest/?p=77</guid>
 		<description><![CDATA[Sarkozy face à la mobilisation des universités]]></description>
 				<content:encoded><![CDATA[<div><object width="480" height="405"><param name="movie" value="http://www.dailymotion.com/swf/k7s1cZ72K1QgRLWPhl&#038;related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/k7s1cZ72K1QgRLWPhl&#038;related=1" type="application/x-shockwave-flash" width="480" height="405" allowFullScreen="true" allowScriptAccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x8ci0f_sarkozy-face-a-la-mobilisation-des_news" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.dailymotion.com');">Sarkozy face à la mobilisation des universités</a></b></div>
 ]]></content:encoded>
-			<wfw:commentRss>/la-reponse-des-etudiants/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/la-reponse-des-etudiants/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[05/02/2009] Compte-rendu de la manifestation</title>
-		<link>/05022009-compte-rendu-de-la-manifestation/</link>
-		<comments>/05022009-compte-rendu-de-la-manifestation/#respond</comments>
+		<link>/statest/05022009-compte-rendu-de-la-manifestation/</link>
+		<comments>/statest/05022009-compte-rendu-de-la-manifestation/#respond</comments>
 		<pubDate>Thu, 05 Feb 2009 23:19:33 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=16</guid>
+		<guid isPermaLink="false">/statest/?p=16</guid>
 		<description><![CDATA[Partie de Jussieu vers 14h30, la manifestation parisienne a réunie entre 3600 et 10000 personnes. Le cortège regroupait étudiants et enseignants et s&#8217;est déroulé dans le calme jusqu&#8217;aux abords du lycée Henri IV. Environ 500 étudiants sont ensuite partis en manif&#8217; sauvage, vers la Sorbonne, Odéon, le quai Voltaire, le Louvre, Châtelet avant de revenir [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Partie de Jussieu vers 14h30, la manifestation parisienne a réunie entre 3600 et 10000 personnes. Le cortège regroupait étudiants et enseignants et s&#8217;est déroulé dans le calme jusqu&#8217;aux abords du lycée Henri IV. Environ 500 étudiants sont ensuite partis en manif&#8217; sauvage, vers la Sorbonne, Odéon, le quai Voltaire, le Louvre, Châtelet avant de revenir vers le ministère de l&#8217;enseignement supérieur ou de nombreux enseignants étaient encore réunis.</p>
 <p><img class="aligncenter" title="Manifestation à Paris le 5 février." src="http://farm4.static.flickr.com/3127/3255549685_84a84cee36.jpg?v=0" alt="" width="500" height="334" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>/05022009-compte-rendu-de-la-manifestation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/05022009-compte-rendu-de-la-manifestation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[05/02/2009] Manifestation</title>
-		<link>/05022009-manifestation/</link>
-		<comments>/05022009-manifestation/#respond</comments>
+		<link>/statest/05022009-manifestation/</link>
+		<comments>/statest/05022009-manifestation/#respond</comments>
 		<pubDate>Thu, 05 Feb 2009 23:04:30 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[Manifestation]]></category>
 
-		<guid isPermaLink="false">/?p=18</guid>
+		<guid isPermaLink="false">/statest/?p=18</guid>
 		<description><![CDATA[La manifestation partira à 14h30. Le rassemblement est prévu place Jussieu. L&#8217;itinéraire est le suivant : Rue Linné Rue Geoffroy Saint Hilaire Rue Censier Rue Monge Rue Claude Bernard Rue d’Ulm Place du Panthéon Rue Clotilde Rue Clovis La dislocation est envisagée, rue Clovis angle rue Descartes, vers 17h30.]]></description>
 				<content:encoded><![CDATA[<p>La manifestation partira à 14h30. Le rassemblement est prévu place Jussieu. L&#8217;itinéraire est le suivant :</p>
 <p>Rue Linné<br />
@@ -132,7 +132,7 @@ Rue Clotilde<br />
 Rue Clovis</p>
 <p>La dislocation est envisagée, rue Clovis angle rue Descartes, vers 17h30.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/05022009-manifestation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/05022009-manifestation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

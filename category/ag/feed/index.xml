@@ -9,8 +9,8 @@
 
 <channel>
 	<title>AG &#8211; Jussieu en lutte !</title>
-	<atom:link href="/category/ag/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/statest/category/ag/feed/" rel="self" type="application/rss+xml" />
+	<link>/statest/</link>
 	<description>La mobilisation à Jussieu</description>
 	<lastBuildDate>Wed, 11 Mar 2009 00:48:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,43 +19,43 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>[11/03/2009] Assemblée générale, amphithéâtre 34A</title>
-		<link>/11032009-assemblee-generale-amphitheatre-34a/</link>
-		<comments>/11032009-assemblee-generale-amphitheatre-34a/#respond</comments>
+		<link>/statest/11032009-assemblee-generale-amphitheatre-34a/</link>
+		<comments>/statest/11032009-assemblee-generale-amphitheatre-34a/#respond</comments>
 		<pubDate>Wed, 11 Mar 2009 00:44:00 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=165</guid>
+		<guid isPermaLink="false">/statest/?p=165</guid>
 		<description><![CDATA[Demain, mercredi 11 mars aura lieu, en amphithéâtre 34A, une assemblée générale de l&#8217;ensemble de la communauté universitaire. Le blocage de l&#8217;université sera mis à l&#8217;ordre du jour. Départ pour la manifestation prévu à la fin de l&#8217;assemblée, rendez-vous place Jussieu. Venez nombreux.]]></description>
 				<content:encoded><![CDATA[<p>Demain, mercredi 11 mars aura lieu, en amphithéâtre 34A, une assemblée générale de l&#8217;ensemble de la communauté universitaire. Le blocage de l&#8217;université sera mis à l&#8217;ordre du jour. Départ pour la manifestation prévu à la fin de l&#8217;assemblée, rendez-vous place Jussieu. Venez nombreux.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/11032009-assemblee-generale-amphitheatre-34a/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/11032009-assemblee-generale-amphitheatre-34a/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[09/03/2009] Comité de mobilisation</title>
-		<link>/09032009-comite-de-mobilisation/</link>
-		<comments>/09032009-comite-de-mobilisation/#respond</comments>
+		<link>/statest/09032009-comite-de-mobilisation/</link>
+		<comments>/statest/09032009-comite-de-mobilisation/#respond</comments>
 		<pubDate>Tue, 10 Mar 2009 00:44:23 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=167</guid>
+		<guid isPermaLink="false">/statest/?p=167</guid>
 		<description><![CDATA[Comité de mobilisation, aujourd&#8217;hui à 12H30.]]></description>
 				<content:encoded><![CDATA[<p>Comité de mobilisation, aujourd&#8217;hui à 12H30.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/09032009-comite-de-mobilisation/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/09032009-comite-de-mobilisation/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[06/03/2009] Compte-rendu de la CNU</title>
-		<link>/06032009-compte-rendu-de-la-cnu/</link>
-		<comments>/06032009-compte-rendu-de-la-cnu/#respond</comments>
+		<link>/statest/06032009-compte-rendu-de-la-cnu/</link>
+		<comments>/statest/06032009-compte-rendu-de-la-cnu/#respond</comments>
 		<pubDate>Sat, 07 Mar 2009 18:45:19 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=158</guid>
+		<guid isPermaLink="false">/statest/?p=158</guid>
 		<description><![CDATA[  Communiqués et motions de la 5e coordination nationale des universités Communiqué du soir Vendredi 6 mars 2009, 19h45 La Coordination Nationale des Universités dénonce une nouvelle provocation du Ministère. Comme vendredi dernier à la même heure, Valérie Pécresse fait croire à une avancée significative des pseudo-négociations engagées avec trois syndicats minoritaires. La Coordination Nationale [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p> </p>
 <p style="text-align: center; "><strong>Communiqués et motions de la 5e coordination nationale des universités</strong></p>
@@ -152,48 +152,48 @@ renforce la subordination du doctorant à l&#8217;égard des directeurs de thès
 <p>Rappel d&#8217;un moratoire des expertises ANR et AERES.</p>
 <p>Transmettre des cahiers de doléances aux élus locaux.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/06032009-compte-rendu-de-la-cnu/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/06032009-compte-rendu-de-la-cnu/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[05/03/2009] Assemblée générale mixte</title>
-		<link>/05032009-assemblee-generale-mixte/</link>
-		<comments>/05032009-assemblee-generale-mixte/#comments</comments>
+		<link>/statest/05032009-assemblee-generale-mixte/</link>
+		<comments>/statest/05032009-assemblee-generale-mixte/#comments</comments>
 		<pubDate>Thu, 05 Mar 2009 16:29:11 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=118</guid>
+		<guid isPermaLink="false">/statest/?p=118</guid>
 		<description><![CDATA[Une assemblée générale réunissant étudiants et enseignants-chercheurs aura lieu Jeudi 5 mars à 12h30 en amphithéâtre 43. Au vu de la faible mobilisation sur le campus, il est très important de venir à cette assemblée ! Le départ pour la manifestation aura lieu dès la fin de l&#8217;assemblée générale.]]></description>
 				<content:encoded><![CDATA[<p>Une assemblée générale réunissant étudiants et enseignants-chercheurs aura lieu Jeudi 5 mars à 12h30 en amphithéâtre 43. Au vu de la faible mobilisation sur le campus, il est très important de venir à cette assemblée ! Le départ pour la manifestation aura lieu dès la fin de l&#8217;assemblée générale.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/05032009-assemblee-generale-mixte/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/05032009-assemblee-generale-mixte/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>[03/03/2009] Assemblée générale étudiante</title>
-		<link>/03032009-assemblee-generale-etudiante/</link>
-		<comments>/03032009-assemblee-generale-etudiante/#respond</comments>
+		<link>/statest/03032009-assemblee-generale-etudiante/</link>
+		<comments>/statest/03032009-assemblee-generale-etudiante/#respond</comments>
 		<pubDate>Tue, 03 Mar 2009 03:25:26 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=116</guid>
+		<guid isPermaLink="false">/statest/?p=116</guid>
 		<description><![CDATA[Demain, assemblée générale étudiante à 12h30 en amphithéâtre 43.]]></description>
 				<content:encoded><![CDATA[<p>Demain, assemblée générale étudiante à 12h30 en amphithéâtre 43.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/03032009-assemblee-generale-etudiante/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/03032009-assemblee-generale-etudiante/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[20/02/2009] Compte-rendu de la CNU</title>
-		<link>/20022009-compte-rendu-de-la-cnu/</link>
-		<comments>/20022009-compte-rendu-de-la-cnu/#respond</comments>
+		<link>/statest/20022009-compte-rendu-de-la-cnu/</link>
+		<comments>/statest/20022009-compte-rendu-de-la-cnu/#respond</comments>
 		<pubDate>Fri, 20 Feb 2009 16:53:14 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=97</guid>
+		<guid isPermaLink="false">/statest/?p=97</guid>
 		<description><![CDATA[Communiqué du matin La journée de manifestations du 19 février a rassemblé 50 000 enseignants, enseignants-chercheurs, chercheurs, BIATOSS, ITA, précaires, post-doctorants, doctorants, étudiants, et des personnels de l’Education Nationale dans toute la France. Aujourd’hui, le 20 février 2009, la 4ème Coordination nationale des universités se tient à Nanterre. Elle exprime son exaspération face au mépris [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p style="text-align: center;"><strong>Communiqué du matin</strong></p>
 <p>La journée de manifestations du 19 février a rassemblé 50 000 enseignants, enseignants-chercheurs, chercheurs, BIATOSS, ITA, précaires, post-doctorants, doctorants, étudiants, et des personnels de l’Education Nationale dans toute la France. Aujourd’hui, le 20 février 2009, la 4ème Coordination nationale des universités se tient à Nanterre.</p>
@@ -239,33 +239,33 @@ la fin du processus d’externalisation des tâches, et le maintien de la filiè
 <p>Appel aux chefs de service administratifs pour ne pas remonter le recensement des grévistes.</p>
 <p>Délégation à la coordination étudiante à Angers le week-end du 28 février-1er mars.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/20022009-compte-rendu-de-la-cnu/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/20022009-compte-rendu-de-la-cnu/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[19/02/2009] Assemblées générales</title>
-		<link>/19022009-assemblees-generales/</link>
-		<comments>/19022009-assemblees-generales/#respond</comments>
+		<link>/statest/19022009-assemblees-generales/</link>
+		<comments>/statest/19022009-assemblees-generales/#respond</comments>
 		<pubDate>Thu, 19 Feb 2009 16:59:23 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=100</guid>
+		<guid isPermaLink="false">/statest/?p=100</guid>
 		<description><![CDATA[Les assemblées générales des personnels et des étudiants auront lieu dans l&#8217;atrium. L&#8217;assemblée des personnels devrait commencer vers 11h, celle des étudiants à 12h30.]]></description>
 				<content:encoded><![CDATA[<p>Les assemblées générales des personnels et des étudiants auront lieu dans l&#8217;atrium. L&#8217;assemblée des personnels devrait commencer vers 11h, celle des étudiants à 12h30.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/19022009-assemblees-generales/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/19022009-assemblees-generales/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[17/02/2009] Compte-rendu de l&#8217;AG</title>
-		<link>/17022009-compte-rendu-de-lag/</link>
-		<comments>/17022009-compte-rendu-de-lag/#respond</comments>
+		<link>/statest/17022009-compte-rendu-de-lag/</link>
+		<comments>/statest/17022009-compte-rendu-de-lag/#respond</comments>
 		<pubDate>Tue, 17 Feb 2009 13:18:58 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=86</guid>
+		<guid isPermaLink="false">/statest/?p=86</guid>
 		<description><![CDATA[Voici un bref compte-rendu de l&#8217;assemblée générale étudiante de ce midi. L&#8217;assemblée s&#8217;est déroulée dans l&#8217;amphithéâtre 43. En préambule à l&#8217;ordre du jour, la tribune a fait un rapide point sur la coordination étudiante du week-end et sur le barrage filtrant du matin. L&#8217;appel de la coordination était distribué à l&#8217;entrée de l&#8217;amphithéâtre. Le premier [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Voici un bref compte-rendu de l&#8217;assemblée générale étudiante de ce midi. L&#8217;assemblée s&#8217;est déroulée dans l&#8217;amphithéâtre 43.</p>
 <p>En préambule à l&#8217;ordre du jour, la tribune a fait un rapide point sur la coordination étudiante du week-end et sur le barrage filtrant du matin. L&#8217;appel de la coordination était distribué à l&#8217;entrée de l&#8217;amphithéâtre.</p>
@@ -273,33 +273,33 @@ la fin du processus d’externalisation des tâches, et le maintien de la filiè
 <p>Le second point abordé fût celui des perspectives. On parla, dans l&#8217;ordre, du barrage filtrant de jeudi matin, de l&#8217;action prévue l&#8217;après-midi et de la coordination francillienne de demain. Concernant l&#8217;action de l&#8217;après-midi, l&#8217;UNEF proposa un rassemblement devant le ministère. Il fût répondu que la CNU et la coordination étudiante de ce week-end appelait plutôt à des actions d&#8217;information et de diffusion dans les gares.</p>
 <p>L&#8217;assemblée générale se termina par l&#8217;élection des délégués de l&#8217;UPMC pour la coordination francilienne de demain. Il y avait cinq candidats pour quatre mandats. Furent élus Lucas, Adrien, Fabien et Ludmilla. L&#8217;assemblée vota pour un mandat semi-impératif.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/17022009-compte-rendu-de-lag/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/17022009-compte-rendu-de-lag/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[17/02/2009] Assemblée générale</title>
-		<link>/17022009-assemblee-generale/</link>
-		<comments>/17022009-assemblee-generale/#respond</comments>
+		<link>/statest/17022009-assemblee-generale/</link>
+		<comments>/statest/17022009-assemblee-generale/#respond</comments>
 		<pubDate>Mon, 16 Feb 2009 18:32:39 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=81</guid>
+		<guid isPermaLink="false">/statest/?p=81</guid>
 		<description><![CDATA[Une assemblée générale étudiante aura lieu mardi 17 février à partir de 12h30. Amphithéâtre à préciser, consulter les panneaux d&#8217;affichages.]]></description>
 				<content:encoded><![CDATA[<p>Une assemblée générale étudiante aura lieu mardi 17 février à partir de 12h30. Amphithéâtre à préciser, consulter les panneaux d&#8217;affichages.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/17022009-assemblee-generale/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/17022009-assemblee-generale/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>[16/02/2009] Compte-rendu de l&#8217;AG des personnels</title>
-		<link>/16022009-compte-rendu-de-lag-des-personnels/</link>
-		<comments>/16022009-compte-rendu-de-lag-des-personnels/#respond</comments>
+		<link>/statest/16022009-compte-rendu-de-lag-des-personnels/</link>
+		<comments>/statest/16022009-compte-rendu-de-lag-des-personnels/#respond</comments>
 		<pubDate>Mon, 16 Feb 2009 06:47:39 +0000</pubDate>
 		<dc:creator><![CDATA[Clément de Flandre]]></dc:creator>
 				<category><![CDATA[AG]]></category>
 
-		<guid isPermaLink="false">/?p=90</guid>
+		<guid isPermaLink="false">/statest/?p=90</guid>
 		<description><![CDATA[L’Assemblée générale des personnels de l’Université Paris 6 constate que la grève continue &#8211; sans faiblir &#8211; cette semaine à l’Université Paris 6. Motions votées : L’AG a pris position pour les actions suivantes : Demain mardi, diffusion de tracts dans les gares : RV en bas de la TOUR 46 15H15 Mardi, &#8220;déguisés en [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>L’Assemblée générale des personnels de l’Université Paris 6 constate que la grève continue &#8211; sans faiblir &#8211; cette semaine à l’Université Paris 6.</p>
 <p>Motions votées :</p>
@@ -323,7 +323,7 @@ la fin du processus d’externalisation des tâches, et le maintien de la filiè
 <p>Informations AG locales :</p>
 <p>AG UFR Physique Mercredi 14h Amphi 55 AG UFR Ingénierie Jeudi 10h Amphi B2</p>
 ]]></content:encoded>
-			<wfw:commentRss>/16022009-compte-rendu-de-lag-des-personnels/feed/</wfw:commentRss>
+			<wfw:commentRss>/statest/16022009-compte-rendu-de-lag-des-personnels/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
