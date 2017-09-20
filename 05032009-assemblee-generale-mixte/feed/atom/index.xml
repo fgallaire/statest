@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xml:lang="en-US"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	>
+	<title type="text">Comments on [05/03/2009] Assemblée générale mixte</title>
+	<subtitle type="text">La mobilisation à Jussieu</subtitle>
+
+	<updated>2009-03-04T08:39:25Z</updated>
+
+	<link rel="alternate" type="text/html" href="/05032009-assemblee-generale-mixte/#comments" />
+	<link rel="self" type="application/atom+xml" href="/05032009-assemblee-generale-mixte/feed/atom/" />
+	<id>/05032009-assemblee-generale-mixte/feed/atom/</id>
+<generator uri="https://wordpress.org/" version="4.8.2">WordPress</generator>
+	<entry>
+		<title>By: sophie</title>
+		<link rel="alternate" href="/05032009-assemblee-generale-mixte/comment-page-1/#comment-5" type="text/html" />
+
+		<author>
+			<name>sophie</name>
+			
+		</author>
+
+		<id>/?p=118#comment-5</id>
+		<updated>2009-03-04T08:39:25Z</updated>
+		<published>2009-03-04T08:39:25Z</published>
+		<content type="html" xml:base="/05032009-assemblee-generale-mixte/comment-page-1/#comment-5"><![CDATA[<p>a quelle heure?</p>
+]]></content>
+		<thr:in-reply-to ref="/?p=118" href="/05032009-assemblee-generale-mixte/" type="text/html" />
+	</entry>
+</feed>
